@@ -69,6 +69,8 @@ main {
   color: #444;
 }
 .movie-grid{
+  display: flex;
+  justify-content: center;
   box-sizing: border-box;
   text-align: center;
 }
